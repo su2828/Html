@@ -1,0 +1,51 @@
+ body{
+	width: 900px;
+	height: 100%;
+	margin:0 auto;
+	padding-top:10px;
+}
+.btn-group{
+	width: 900px;
+	height: 34px;
+	margin: 0 auto;
+}
+.top{
+	height: 34px;
+	float: right;
+	list-style: none;
+	margin-top: -10px;
+}
+.jumu{
+	text-align:center;
+	background: url('../img/timg.jpg') no-repeat;
+	background-size:cover;
+	color:black;
+	padding:150px 0;
+	clear: both;
+}
+.content{
+	height: 700px;
+	margin-top:-25px;
+}
+.title{
+	font-size:30px;
+
+}
+.zhaiyao{
+	font-size:15px;
+}
+.author{
+	margin:20px 0;
+}
+.footer{
+	text-align:center;
+	font-size:20px;
+	color:#fff;
+	height: 40px;
+	background-color: #000;
+	margin-top:20px;
+}
+.footer p{
+	line-height: 50px;
+}
+
